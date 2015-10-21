@@ -1,0 +1,15 @@
+go v.
+go v.
+sit v.
+apple n.
+box none.
+tri n.
+laugh none.
+devote none.
+begin none.
+die none.
+play none.
+devote none.
+put none.
+studied none.
+die none.
